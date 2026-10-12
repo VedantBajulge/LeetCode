@@ -5,9 +5,10 @@ class Solution:
             return max(nums)
         else:
            
-            
-            nums.remove(max(nums))
-            nums.remove(max(nums))
+            f_max=max(nums)
+            nums.remove(f_max)
+            s_max=max(nums)
+            nums.remove(s_max)
 
             return max(nums)
 
