@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/VedantBajulge/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VedantBajulge/LeetCode/tree/master/0414-third-maximum-number) |
+| [1470-shuffle-the-array](https://github.com/VedantBajulge/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
