@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VedantBajulge/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VedantBajulge/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VedantBajulge/LeetCode/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/VedantBajulge/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VedantBajulge/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VedantBajulge/LeetCode/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/VedantBajulge/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
