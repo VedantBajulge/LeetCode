@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/VedantBajulge/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/VedantBajulge/LeetCode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/VedantBajulge/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedantBajulge/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/VedantBajulge/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
